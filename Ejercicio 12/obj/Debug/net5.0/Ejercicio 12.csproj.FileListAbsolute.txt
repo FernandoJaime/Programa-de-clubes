@@ -1,0 +1,16 @@
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\bin\Debug\net5.0\Ejercicio 12.exe
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\bin\Debug\net5.0\Ejercicio 12.deps.json
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\bin\Debug\net5.0\Ejercicio 12.runtimeconfig.json
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\bin\Debug\net5.0\Ejercicio 12.runtimeconfig.dev.json
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\bin\Debug\net5.0\Ejercicio 12.dll
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\bin\Debug\net5.0\ref\Ejercicio 12.dll
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\bin\Debug\net5.0\Ejercicio 12.pdb
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.csproj.AssemblyReference.cache
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.AssemblyInfoInputs.cache
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.AssemblyInfo.cs
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.dll
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\obj\Debug\net5.0\ref\Ejercicio 12.dll
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.pdb
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Ejercicio 12\obj\Debug\net5.0\Ejercicio 12.genruntimeconfig.cache

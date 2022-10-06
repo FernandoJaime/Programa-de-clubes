@@ -1,0 +1,9 @@
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Clubes con Forms\obj\Debug\Clubes con Forms.csproj.AssemblyReference.cache
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Clubes con Forms\obj\Debug\Clubes_con_Forms.Properties.Resources.resources
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Clubes con Forms\obj\Debug\Clubes con Forms.csproj.GenerateResource.cache
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Clubes con Forms\obj\Debug\Clubes con Forms.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Clubes con Forms\bin\Debug\Clubes con Forms.exe.config
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Clubes con Forms\bin\Debug\Clubes con Forms.exe
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Clubes con Forms\bin\Debug\Clubes con Forms.pdb
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Clubes con Forms\obj\Debug\Clubes con Forms.exe
+C:\Users\Avatar\Desktop\TP 12 - Jaime Fernando y Torassa Valentin - Ej 12 Consola y Clubes Forms\Clubes con Forms\obj\Debug\Clubes con Forms.pdb
